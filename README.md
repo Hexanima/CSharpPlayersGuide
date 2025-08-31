@@ -24,3 +24,9 @@ Estructura ejemplo:
     - Level 24 - The Catacombs of the Class
         - 5 - Boss Battle - The Password Validator.cs
         - 6 - Boss Battle - Rock-Paper-Scissors.excalidraw 
+
+## XP
+
+Uso esta sección para gestionar la XP obtenida hasta el momento
+
+### XP Actual: 0xp 31/08/2025
