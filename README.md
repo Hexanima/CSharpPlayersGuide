@@ -9,8 +9,7 @@ El progreso aún tengo que ver como marcarlo, posiblemente esté el PDF talonari
 
 ## Aprendizaje
 
-Separaré distintas carpetas según cada Parte, Nivel, y Desafío, de esa manera organizando los archivos de mi
-aprendizaje, asi como tendré archivos más generales donde podre hacer síntesis de lo aprendido
+Separaré distintas carpetas según cada Parte, Nivel, y archivos para cada Desafío
 Los desafíos de CRC los haré en Excalidraw y una vez resueltos los pondré en su respectiva carpeta nombrado acorde
 
 Estructura ejemplo:
@@ -18,15 +17,32 @@ Estructura ejemplo:
 - Part 1 - Basics
     - Level 13 - Methods
         - Challenge - Taking a Number.cs
-        - Practice.cs
     - Boss Battle - Hunting the Manticore
 - Part 2 - Object-Oriented Programming
     - Level 24 - The Catacombs of the Class
         - 5 - Boss Battle - The Password Validator.cs
-        - 6 - Boss Battle - Rock-Paper-Scissors.excalidraw 
+        - 6 - Boss Battle - Rock-Paper-Scissors.excalidraw
 
 ## XP
 
-Uso esta sección para gestionar la XP obtenida hasta el momento
+Uso esta sección para hacer tracking de la XP obtenida
 
-### XP Actual: 0xp 31/08/2025
+### 31/8/2025
+
+XP anterior: 0xp
+
+- +25xp - Knowledge Check - C#
+- +75xp - Install VS (Or Rider in my case)
+- +50xp - Hello World
+- +50xp - What comes next
+- +50xp - Makings of a Programmer
+- +50xp - Consolas and Telim
+- +100xp - The ThingNamer3k
+- +25xp - Knowledge Check - Variables
+- +100xp - Variable Shop
+- +50xp - Variable Shop Returns
+- +25xp - Knowledge Check - Type System
+- +100xp - Triangle Farmer
+- +100xp - Four Sisters and Duckbear
+
+XP actual: 800xp

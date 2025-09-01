@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\bin\Debug\net9.0\C# Players Guide.exe
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\bin\Debug\net9.0\C# Players Guide.deps.json
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\bin\Debug\net9.0\C# Players Guide.runtimeconfig.json
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\bin\Debug\net9.0\C# Players Guide.dll
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\bin\Debug\net9.0\C# Players Guide.pdb
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\obj\Debug\net9.0\C# Players Guide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\obj\Debug\net9.0\C# Players Guide.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\obj\Debug\net9.0\C# Players Guide.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\obj\Debug\net9.0\C# Players Guide.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\obj\Debug\net9.0\C# Players Guide.sourcelink.json
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\obj\Debug\net9.0\C# Players Guide.dll
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\obj\Debug\net9.0\refint\C# Players Guide.dll
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\obj\Debug\net9.0\C# Players Guide.pdb
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\obj\Debug\net9.0\C# Players Guide.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Neo Nico\Programacion\General\C# Players Guide\obj\Debug\net9.0\ref\C# Players Guide.dll
