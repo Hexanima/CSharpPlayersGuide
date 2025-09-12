@@ -2,6 +2,6 @@
 
 using C__Players_Guide.Utils;
 
-IExercise currentExercise = new Part1Level7Challenge3DominionOfKings();
+IExercise currentExercise = new Part1Level9Challenge2Watchtower();
 
 currentExercise.Run();
